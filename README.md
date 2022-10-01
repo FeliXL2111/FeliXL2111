@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=FeliXL2111&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **FeliXL2111/FeliXL2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
