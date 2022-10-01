@@ -1,5 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FeliXL2111&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeliXL2111&theme=dark&count_private=true)](https://felixl2111.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliXL2111&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://felixl2111.github.io))
 <!--
 **FeliXL2111/FeliXL2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
